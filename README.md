@@ -5,7 +5,7 @@ service.now.password=**your-servicenow-instance-password**
 
 service.now.client.id=**your-servicenow-OAUTH-client-id**
 
-service.now.client.secret=your-servicenow-oauth-client-secret
+service.now.client.secret=**your-servicenow-oauth-client-secret**
 
 # JIRA API Secret Text
 jira.api.token=your jira api token
