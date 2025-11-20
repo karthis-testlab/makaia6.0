@@ -8,7 +8,7 @@ service.now.client.id=**your-servicenow-OAUTH-client-id**
 service.now.client.secret=**your-servicenow-oauth-client-secret**
 
 # JIRA API Secret Text
-jira.api.token=your-jira-api-token
+jira.api.token=**your-jira-api-token**
 
 # rest-full booker API Secret Text
 booker.password=booker api password
