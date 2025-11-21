@@ -11,7 +11,7 @@ service.now.client.secret=**your-servicenow-oauth-client-secret**
 jira.api.token=**your-jira-api-token**
 
 # rest-full booker API Secret Text
-booker.password=booker-api-password
+booker.password=**booker-api-password**
 
 # UiBank Secret Text
 uibank.password=uibank api password
