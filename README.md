@@ -14,7 +14,7 @@ jira.api.token=**your-jira-api-token**
 booker.password=**booker-api-password**
 
 # UiBank Secret Text
-uibank.password=uibank-api-password
+uibank.password=**uibank-api-password**
 
 # Allure Report Integration
 - Step 1: Add depenceies for TestNG and Cucumber in pom.xml
